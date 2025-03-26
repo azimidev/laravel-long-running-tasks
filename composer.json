@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-long-running-tasks",
+    "name": "azimidev/laravel-long-running-tasks",
     "description": "Handle long running tasks in a Laravel app",
     "keywords": [
         "laravel",
