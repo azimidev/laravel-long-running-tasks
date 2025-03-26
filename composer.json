@@ -1,16 +1,16 @@
 {
-    "name": "spatie/laravel-long-running-tasks",
+    "name": "azimidev/laravel-long-running-tasks",
     "description": "Handle long running tasks in a Laravel app",
     "keywords": [
         "laravel",
         "laravel-long-running-tasks"
     ],
-    "homepage": "https://github.com/spatie/laravel-long-running-tasks",
+    "homepage": "https://github.com/azimidev/laravel-long-running-tasks",
     "license": "MIT",
     "authors": [
         {
-            "name": "Freek Van der Herten",
-            "email": "freek@spatie.be",
+            "name": "Eric Azimi",
+            "email": "info@azimi.dev",
             "role": "Developer"
         }
     ],
